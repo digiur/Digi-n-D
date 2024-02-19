@@ -1,8 +1,7 @@
 ---
 tags:
-- Jekyll
-- GitHub Pages
-- Blog
+- Location
+- Shop
 ---
 **Aubrey's Peculiarities Shoppe**
 
@@ -18,10 +17,9 @@ The shop itself is a visual feast, adorned with whimsical decorations and dimly 
 
 Isadora Blackthorn's shop has become a destination for those seeking magical curiosities and unique items, turning Aubrey's Peculiarities Shoppe into a haven for both seasoned adventurers and curious townsfolk alike. The tiefling enchantress, with her enigmatic charm, has become an integral part of Leilon's tapestry, leaving an indelible mark on the town's magical landscape.
 
-{% for tag in post.tags %}
-    {{ tag }}
-{% endfor %}
-
-{% for tag in post.tags %}
-    {{ tag }}
-{% endfor %}
+<span>[
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+]</span>
