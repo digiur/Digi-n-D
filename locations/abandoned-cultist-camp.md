@@ -13,4 +13,4 @@ Tied to a nearby tree stand two malnourished horses, their coats dull and unkemp
 
 *searching the detritus around the camp finds scraps of purple cloth, the other tablet and totem, and some master ingredient list stuff*
 
-{% include_relative /lore/lizard-totem.md %}
+{% include_absolute 'lore/lizard-totem.md' %}
