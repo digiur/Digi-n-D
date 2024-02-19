@@ -12,5 +12,3 @@ Tied to a nearby tree stand two malnourished horses, their coats dull and unkemp
 *the camp contains a chest w/ **TODO(bug)**, a magic item, a lizard cultist tablet, and a lizard totem*
 
 *searching the detritus around the camp finds scraps of purple cloth, the other tablet and totem, and some master ingredient list stuff*
-
-{% include_relative ./lore/lizard-totem.md %}
