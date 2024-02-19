@@ -68,7 +68,7 @@ The common room is filled with many patrons sharing tales of their travels, eati
 
 To the left a large Goliath wearing elaborate-looking goggles sits in a comfortable-looking chair next to a stairway curving up and around out of sight.
 
-*Upon further inspection his chair is made of the finest materials and constructed with the hands of a master artisan. It is easy to decern it's quality*
+*Upon further inspection his chair is made of the finest materials and constructed by the hands of a master artisan. It is easy to decern it's quality*
 
 Next to him, on a small stool, sits a strange-looking plant in a small clay pot.
 
