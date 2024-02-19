@@ -19,6 +19,5 @@ Isadora Blackthorn's shop has become a destination for those seeking magical cur
 
 ## **Tags**
 {% for tag in site.tags %}
-  Name: {{ tag | first }},
-  count: {{ tag | last | size}}
+    {{ tag }}
 {% endfor %}
