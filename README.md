@@ -7,6 +7,9 @@ tags:
 # Digi-n-D
 GM Materials For DiginD Campaigns
 
+
+[shop](locations/aubreys-peculiarities-shoppe.md)
+
 {% if site.tags != "" %}
   {% include collecttags.html %}
 {% endif %}
