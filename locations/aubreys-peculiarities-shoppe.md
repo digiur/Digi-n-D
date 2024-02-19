@@ -1,8 +1,9 @@
 ---
 tags:
-- Location
-- Shop
+- location
+- shop
 ---
+
 # **Aubrey's Peculiarities Shoppe**
 
 Nestled among the quaint buildings of Leilon, Aubrey's Peculiarities Shoppe stands out with its eccentric charm. The shop is a treasure trove of oddities, trinkets, and magical items, drawing both the curious and the whimsical.
