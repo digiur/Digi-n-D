@@ -1,5 +1,8 @@
 ---
-tags: jekyll blog github-page
+tags:
+- Jekyll
+- GitHub Pages
+- Blog
 ---
 # Digi-n-D
 GM Materials For DiginD Campaigns
