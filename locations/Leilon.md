@@ -1,3 +1,9 @@
+---
+tags:
+- location
+- town
+---
+
 **Leilon: A Quaint Town Along the Sword Coast**
 
 Nestled along the Sword Coast between Neverwinter and Waterdeep, Leilon is a picturesque town with a rich history and a close-knit community. Its cobbled streets wind through a landscape of modest cottages, lively taverns, and a diverse array of shops. The town boasts a mixture of human, dwarf, elf, and other races, fostering a sense of diversity and unity among its residents.
@@ -6,7 +12,6 @@ Nestled along the Sword Coast between Neverwinter and Waterdeep, Leilon is a pic
 {% for tag in site.tags %}
     {{ tag }}
 {% endfor %}
-
 
 **Key Features:**
 
