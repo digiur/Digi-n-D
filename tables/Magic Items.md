@@ -1,0 +1,13 @@
+https://www.dndbeyond.com/magic-items/27041-cloak-of-many-fashions
+https://www.dndbeyond.com/magic-items/27042-clockwork-amulet
+https://www.dndbeyond.com/magic-items/27049-hat-of-vermin
+https://www.dndbeyond.com/magic-items/27076-mystery-key
+https://www.dndbeyond.com/magic-items/27079-perfume-of-bewitching
+https://www.dndbeyond.com/magic-items/27113-pot-of-awakening
+https://www.dndbeyond.com/magic-items/27116-shield-of-expression
+https://www.dndbeyond.com/magic-items/27142-tankard-of-sobriety
+https://www.dndbeyond.com/magic-items/27145-veterans-cane
+[Staffs:]
+https://www.dndbeyond.com/magic-items/27139-staff-of-flowers
+https://www.dndbeyond.com/magic-items/27137-staff-of-birdcalls
+https://www.dndbeyond.com/magic-items/27136-staff-of-adornment

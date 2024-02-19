@@ -1,0 +1,7 @@
+As the players enter, they are greeted warmly by Elda, who stands near the entrance with a welcoming smile and a twinkle in her eyes. She extends a hand in greeting, her demeanor radiating hospitality as she welcomes each patron with enthusiasm.
+
+After exchanging pleasantries with the newcomers, Elda gracefully moves about the inn, making her rounds among the tables. She engages in lively conversation with the guests, regaling them with tales of the road, sharing amusing anecdotes, and delighting them with clever riddles and puzzles. Her presence adds to the convivial atmosphere of the inn, drawing everyone into the shared camaraderie of the space.
+
+In addition to her role as host, Elda also oversees the operations of the inn with meticulous attention to detail. Behind the scenes, in the kitchen area, she has a small desk and a filing cabinet where she keeps records of the preferences of regular patrons. With a practiced hand, she consults these files to ensure that each guest receives personalized service tailored to their tastes.
+
+As Elda navigates the bustling inn, her apron billows slightly with each step, and her laughter rings out like music amidst the lively chatter of the patrons. With her warm hospitality and genuine care for the well-being of her guests, she embodies the spirit of The Wizard's Tower Inn, ensuring that every visitor feels like a cherished friend welcomed into her home.
