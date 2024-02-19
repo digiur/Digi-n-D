@@ -1,3 +1,9 @@
+---
+tags:
+- location
+- camp
+---
+
 **Abandoned Cultist Camp**
 The abandoned camp is situated deep within the forest, hidden from casual passersby by thick underbrush and the natural canopy of trees.
 
