@@ -1,7 +1,7 @@
 ---
 tags:
 - location
-- town
+- camp
 ---
 
 **Leilon: A Quaint Town Along the Sword Coast**

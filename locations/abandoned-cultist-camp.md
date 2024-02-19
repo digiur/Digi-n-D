@@ -4,7 +4,7 @@ tags:
 - camp
 ---
 
-**Abandoned Cultist Camp**
+# **Abandoned Cultist Camp**
 The abandoned camp is situated deep within the forest, hidden from casual passersby by thick underbrush and the natural canopy of trees.
 
 The camp itself consists of a clearing in the woods, roughly circular in shape and surrounded by tall, ancient trees. At the center of the clearing is a large stone altar, weathered and stained with dark, dried fluids. Surrounding the altar are several smaller stones arranged in a circular pattern, forming a makeshift ritual circle.
